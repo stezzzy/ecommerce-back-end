@@ -4,6 +4,7 @@
 * [Description](#description-🗒️)
 * [Usage](#usage-🔼)
 * [Installation](#installation-✅)
+* [Live Demo](#live-demo)
 
 ## Description 🗒️
 
@@ -33,3 +34,7 @@ To seed the data, exit the mysql terminal and run:
 ~~~
 npm run seed
 ~~~
+
+## Live Demo
+
+https://drive.google.com/file/d/15vTEht4Nx8SuKZxLLAhYMENg6jr4ybY3/view?usp=sharing
